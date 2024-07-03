@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TMMIN_INSIGHTS_ANALYTICS_V1_TRIAL</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.talend.core.talendnature</nature>
+	</natures>
+</projectDescription>
